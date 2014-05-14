@@ -1,3 +1,4 @@
 var
 ===
-ole
+  def malakes(bobos, dan):
+bobos= 
